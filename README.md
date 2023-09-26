@@ -17,7 +17,7 @@ git commit -m "first commit"
 git push origin master
 ````
 ## Link to live site
-#### 
+#### https://arronkiptoo.github.io/my-portfolio/
 
 ## LICENSE
 MIT License
